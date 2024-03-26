@@ -25,3 +25,27 @@ The frontend is powered by React.js to deliver responsive pages. The Context API
 ### Automated Price Calculation
 - Automatically calculate prices based on guest counts and stay duration for each reservation.
 
+
+## Getting Started
+
+### Prerequisties
+
+Make sure you have the following installed on your machine:
+
+- Node.js
+- MongoDB
+
+1. Clone the repository:
+   ```bash
+      git clone https://github.com/wifi1999/KusiBooking.git
+
+2. Install the dependencies:  
+   ```bash
+      cd api
+      npm install
+   ```
+   ```bash 
+      cd cliet
+      npm install
+   ```
+
