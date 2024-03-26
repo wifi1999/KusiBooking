@@ -20,9 +20,8 @@ The frontend is powered by React.js to deliver responsive pages. The Context API
 
 ### Hotel Filtering
 - Filter hotels based on move-in dates, price, and location preferences.
+- Filter out reserved hotels for a reliable reservation process.
 
 ### Automated Price Calculation
 - Automatically calculate prices based on guest counts and stay duration for each reservation.
 
-### Availability Handling
-- Filter out reserved hotels for a reliable reservation process.
