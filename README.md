@@ -7,7 +7,7 @@ KusiBooking is a full-stack Hotel Booking App offering seamless hotel reservatio
 ## Project Structure 
 
 ### Backend 
-The backend is powered by Node.js and Express.js for efficient routing. MongoDB serves as the database, managed efficiently with Moogoose. It facilitate user authentication, hotel/room selection, filtering, and reservation handling. Additionally, JsonWebToken API is intergrated for building a secure authentication and authorization system 
+The backend, powered by Node.js and Express.js, handles efficient routing. MongoDB, managed with Mongoose, facilitates user authentication, hotel/room selection, filtering, and reservation handling. Integration of JsonWebToken API ensures a secure authentication and authorization system.
 
 ### Frontend 
 The frontend is powered by React.js to deliver responsive pages. The Context API is utilized for persistent user and reservation states across multiple pages.
