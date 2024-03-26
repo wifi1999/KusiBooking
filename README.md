@@ -45,7 +45,7 @@ Make sure you have the following installed on your machine:
       npm install
    ```
    ```bash 
-      cd cliet
+      cd client
       npm install
    ```
 
